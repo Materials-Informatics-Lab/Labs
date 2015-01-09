@@ -10,7 +10,7 @@ gh:
   repo: Labs
   # Branch hosting Github pages
   branch: gh-pages
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/Labs/" # the subpath of your site, e.g. /blog/
 url: "Materials-Informatics-Lab.github.io" # the base hostname & protocol for your site
 twitter_username: thedavidbrough
 # Last line in commenting command
